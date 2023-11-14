@@ -22,6 +22,11 @@ or
 pip3 install customtkinter
 ```
 
+# Start GUI
+```
+python3 yardstick-gui.py
+```
+
 # Receive signals
 https://github.com/CharlesTheGreat77/YardstickOneGUI/assets/27988707/c19f699a-7f8c-487d-b116-0f1deaf68a25
 
