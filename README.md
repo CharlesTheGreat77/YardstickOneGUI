@@ -62,4 +62,3 @@ you'll have to rerun the app after it closes..
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/CharlesTheGreat77/count.svg" />
 </p>
-⭐️ From [Charles](https://github.com/CharlesTheGreat77)
