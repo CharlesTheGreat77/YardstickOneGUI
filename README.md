@@ -73,6 +73,8 @@ https://github.com/CharlesTheGreat77/YardstickOneGUI/assets/27988707/d4a2dfc2-ba
 Spectrum analyzer bugs out and crashes the app... so till then, if you're using it..
 you'll have to rerun the app after it closes..
 
+# Yardstick One playground CLI
+https://github.com/CharlesTheGreat77/YardstickOnePlayground
 
 ### 💬 Contact Me 
 
