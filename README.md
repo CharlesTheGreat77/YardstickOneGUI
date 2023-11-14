@@ -58,8 +58,17 @@ https://github.com/CharlesTheGreat77/YardstickOneGUI/assets/27988707/d4a2dfc2-ba
 
 - Yardstick is configured to the settings set in the cap file
 
+# Key Note
+Configure button resets the signals list.. so signals still in the text box will NOT be
+in the signals list. You can simply CTRL A and delete empty the box.
 
-# Note
+# To do
+1. Change output for more modern (pretty) asthetic.
+2. Allow individual signals to be transmitted.
+3. Create tab to manipulate and transmit signals.
+4. Allow flipper key files to be transmitted.
+
+# Bug
 Spectrum analyzer bugs out and crashes the app... so till then, if you're using it..
 you'll have to rerun the app after it closes..
 
