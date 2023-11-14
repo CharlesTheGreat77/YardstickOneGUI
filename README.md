@@ -12,6 +12,16 @@ easily without having to do the hard work!
 | Python3      |  >=3.0  |
 | Rfcat        |  >=2.0  |
 
+# requirement
+customtkinter
+```
+pip3 install -r requirements.txt
+```
+or
+```
+pip3 install customtkinter
+```
+
 # Receive signals
 https://github.com/CharlesTheGreat77/YardstickOneGUI/assets/27988707/c19f699a-7f8c-487d-b116-0f1deaf68a25
 
