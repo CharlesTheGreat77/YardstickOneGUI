@@ -46,6 +46,7 @@ https://github.com/CharlesTheGreat77/YardstickOneGUI/assets/27988707/2947c33f-48
 
 - All signals in the output are sent once
 - Tesla charging port signal is sent on both 315Mhz & 433.92Mhz
+
   Note: Configure stick back to frequency and modulation in use
         after charging port is transmitted, or the stick will be
         configured to 433.92Mhz after transmittion.
