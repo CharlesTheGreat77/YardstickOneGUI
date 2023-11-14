@@ -60,7 +60,7 @@ https://github.com/CharlesTheGreat77/YardstickOneGUI/assets/27988707/d4a2dfc2-ba
 
 # Key Note
 Configure button resets the signals list.. so signals still in the text box will NOT be
-in the signals list. You can simply CTRL A and delete empty the box.
+in the signals list. You can simply CTRL A and delete to empty the box.
 
 # To do
 1. Change output for more modern (pretty) asthetic.
