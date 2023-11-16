@@ -76,6 +76,9 @@ you'll have to rerun the app after it closes..
 # Yardstick One playground CLI
 https://github.com/CharlesTheGreat77/YardstickOnePlayground
 
+# Note
+The code is rough... let me get the jist down and I'll rework everything 🙏
+
 ### 💬 Contact Me 
 
 ![Gmail Badge](https://img.shields.io/badge/-doobthegoober@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)
