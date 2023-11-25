@@ -13,7 +13,7 @@ class App(customtkinter.CTk):
         super().__init__()
 
         self.d = RfCat()
-        self.d.lowball()
+        self.d.lowball(0)
 
         self.title('Yardstick One Playground')
         self.geometry('1080x460')
