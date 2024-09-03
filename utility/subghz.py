@@ -12,7 +12,7 @@ class yardstick_rx:
         print("[*] Live Packet Capture: \n")
         try:
             while not self.stop_event.is_set():
-                capture, _ = d.RFrecv(blocksize=200)
+                capture, _ = d.RFrecv()
                 cap = capture.hex()
                 strength = int(d.getRSSI().hex(), 16)
                 if cap.count('f') < 300 and cap.count('0') < 300 and strength < 200:
